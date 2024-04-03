@@ -1,2 +1,2 @@
 # rocket_quartet
- a really cool website about rocket quartet cards
+ this is a really cool website about rocket quartet cards
